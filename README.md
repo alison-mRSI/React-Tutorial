@@ -1,2 +1,2 @@
 # React-Tutorial
-This repository is to track my progress learning with React's intro tutorial.
+This repository is for tracking my progress learning React's intro tutorial.
